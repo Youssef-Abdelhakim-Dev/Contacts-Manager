@@ -1,12 +1,18 @@
 # 📇 Full-Stack Contact Manager
 
-> A real-world full-stack project combining a sleek React frontend with a powerful Node.js backend, featuring full CRUD operations, advanced search filters, and responsive design.  
+> A modern full-stack CRUD application built with React, Node.js, and MongoDB, offering a seamless contact management experience with real-time filtering, smooth animations, and secure backend APIs.  
 
 ---
+live demo
+
+
+
+https://github.com/user-attachments/assets/8467d1e7-bdcf-40cb-9a20-41ab9cfaf558
+
 
 ## 👨‍💻 About
 
-This project seamlessly merges the capabilities of **React**, **Styled Components**, **Express**, and **MongoDB** into a cohesive application designed for a modern, intuitive user experience.  
+This project demonstrates a complete MERN (MongoDB, Express, React, Node.js) stack workflow, integrating a responsive frontend and a secure backend into a unified, high-performance contact management system.
 
 ---
 
